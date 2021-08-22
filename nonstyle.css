@@ -1,0 +1,153 @@
+* {
+   font-family: Josefin Sans, Roboto,  Arial, Bebas Neue, Staatliches;
+   box-sizing: content-box;
+   justify-content: center;
+   
+}
+
+body { 
+  background-repeat:no-repeat; 
+  background-size: cover;
+  background-position:center; 
+  background-attachment:fixed; 
+}
+ 
+
+header img {
+  width: 150%;
+  display: block;
+  text-align: center;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+nav {
+  margin-top: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  font-size:30px ;
+
+}
+
+
+a.dess {
+  font-size:  30px; 
+  font-family: Roboto;
+  color:white;
+  text-decoration: none;
+  margin-left: auto;
+   margin-right: auto;
+   width: 8em;
+   display: inline-block;
+   border-radius: 20px;
+  text-align: center;
+  padding: 1px;
+}
+
+mi {
+ margin: 0;
+ bottom: 0;
+ padding: 0;
+ display: table-cell;
+ text-align: center;
+ display: inline-block;
+ border-radius: 20px;
+ list-style-type: none;
+ font-size: 18px;
+ border-radius: 20px;
+ vertical-align: middle;
+ justify-content: center;
+ line-height: 300%;
+}
+
+ul {
+ margin: 0;
+ bottom: 0;
+ 
+ padding: 0;
+ display: table-cell;
+ text-align: center;
+ display: inline-block;
+ border-radius: 20px;
+ list-style-type: none;
+ font-size: 18px;
+ border-radius: 20px;
+ vertical-align: middle;
+ justify-content: center;
+ line-height: 300%;
+ 
+}
+
+article {
+margin-top: 30px;
+justify-content: center;
+text-align: center;
+text-align: center;
+}
+
+article h1 {
+  font-size:  30px; 
+  font-family: Bebas Neue;
+  color: black;
+  text-align: center;
+  background-color:white;
+}
+
+nav {
+  margin-top: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  font-size:30px ;
+  font-family: Staatliches;
+  justify-content: center;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  color: white
+  
+}
+footer h1 {
+  font-size:  20px; 
+  font-family: Staatliches;
+  margin-top: 50px;
+  text-transform: uppercase;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+DIV.container {
+font-family: roboto;
+  justify-content: center;
+  font-size:  50px; 
+  vertical-align: middle;
+  color: rgb(0, 0, 0);
+  
+}
+DIV.container img {
+ font-family: Arial;
+    background-color: transparent; 
+    font-size:  50px; 
+
+}
+
+DIV.container h1 {
+ font-family: Roboto;
+ font-size:  40px; 
+ text-align: center;
+ display:inline-block;
+
+}
+DIV.container b1 {
+  font-family: Roboto;
+  text-shadow:0 20 20px black;
+  font-size:  20px; 
+  text-align: center;
+  display:inline-block;
+ }
